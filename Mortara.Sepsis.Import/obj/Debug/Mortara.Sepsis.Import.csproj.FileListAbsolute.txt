@@ -1,0 +1,7 @@
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\bin\Debug\Mortara.Sepsis.Import.pdb
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\obj\Debug\Mortara.Sepsis.Import.csprojAssemblyReference.cache
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\obj\Debug\Mortara.Sepsis.Import.csproj.CoreCompileInputs.cache
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\obj\Debug\Mortara.Sepsis.Import.pdb
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\bin\Debug\Mortara.Sepsis.Import.dll.config
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\bin\Debug\Mortara.Sepsis.Import.dll
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis.Import\obj\Debug\Mortara.Sepsis.Import.dll

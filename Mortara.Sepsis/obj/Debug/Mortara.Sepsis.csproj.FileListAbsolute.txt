@@ -1,0 +1,14 @@
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.exe.config
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.exe
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.pdb
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.Import.dll
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.Import.pdb
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\bin\Debug\Mortara.Sepsis.Import.dll.config
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.csprojAssemblyReference.cache
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.Graphs.resources
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.Properties.Resources.resources
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.csproj.GenerateResource.cache
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.csproj.CoreCompileInputs.cache
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.csproj.CopyComplete
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.exe
+C:\Projects\SepsisChallenge\Mortara.Sepsis\Mortara.Sepsis\obj\Debug\Mortara.Sepsis.pdb
