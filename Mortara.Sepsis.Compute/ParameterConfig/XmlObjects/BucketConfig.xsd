@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BucketConfig"
+    targetNamespace="http://tempuri.org/BucketConfig.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BucketConfig.xsd"
+    xmlns:mstns="http://tempuri.org/BucketConfig.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:simpleType name="BucketType">
+       <xs:restriction base="xs:string">
+          <xs:enumeration value="Max" />
+          <xs:enumeration value="Min" />
+          <xs:enumeration value="Mean" />
+       </xs:restriction>
+    </xs:simpleType>
+	<xs:complexType name="BucketSpecs">
+        <xs:sequence>
+            <xs:element name="BucketSpec" type="BucketSpec" minOccurs="0" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="BucketData">
+        <xs:sequence>
+            <xs:element name="Buckets" type="BucketSpecs" />
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="BucketSpec">
+        <xs:sequence>
+            <xs:element name="BucketType" type="BucketType" />
+            <xs:element name="BucketNumber" type="xs:int" />
+            <xs:element name="PropertyName" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="BucketData" type="BucketData" />
+</xs:schema>

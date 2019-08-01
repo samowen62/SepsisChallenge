@@ -53,6 +53,9 @@
         public double? LactateDelta { get; set; }
         public double? CalciumDelta { get; set; }
         public double? GlucoseDelta { get; set; }
+        /// <summary>
+        /// For non septic patients, this will be the number of hours from the end of sampling
+        /// </summary>
         public int TimeBeforeSepsis { get; set; }
 
     }

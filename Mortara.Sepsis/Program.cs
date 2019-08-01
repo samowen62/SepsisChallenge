@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Mortara.Sepsis.Compute.Algorithm;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,8 @@ namespace Mortara.Sepsis
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Graphs());
+            //Application.Run(new Graphs());
+            new AlgorithmController().Run();
         }
     }
 }

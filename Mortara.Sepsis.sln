@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortara.Sepsis", "Mortara.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortara.Sepsis.Import", "Mortara.Sepsis.Import\Mortara.Sepsis.Import.csproj", "{68DBF779-7CE7-4665-A1A7-D936E2E43A7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortara.Sepsis.Compute", "Mortara.Sepsis.Compute\Mortara.Sepsis.Compute.csproj", "{F03AAB2A-BDE7-4EB5-AABF-BA9BB9215040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{68DBF779-7CE7-4665-A1A7-D936E2E43A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68DBF779-7CE7-4665-A1A7-D936E2E43A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68DBF779-7CE7-4665-A1A7-D936E2E43A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03AAB2A-BDE7-4EB5-AABF-BA9BB9215040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03AAB2A-BDE7-4EB5-AABF-BA9BB9215040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03AAB2A-BDE7-4EB5-AABF-BA9BB9215040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03AAB2A-BDE7-4EB5-AABF-BA9BB9215040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

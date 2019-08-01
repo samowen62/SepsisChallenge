@@ -17,7 +17,7 @@ namespace Mortara.Sepsis.Import.Parser
 
             foreach(var file in Directory.EnumerateFiles(directory))
             {
-                if (maxFiles.HasValue && maxFiles.Value >= i) break;
+                if (maxFiles.HasValue && maxFiles.Value <= i) break;
                 i++;
 
                 patients.Add(ParseFile(file));

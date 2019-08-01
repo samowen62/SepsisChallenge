@@ -26,7 +26,6 @@ namespace Mortara.Sepsis.Import.Data
                 }
 
                 // private variables used here to avoid re-computing values. Not sure if the compiler optimizes away
-                var isSeptic = IsSeptic;
                 var septicHour = SepticHour;
 
                 for(int i = 0; i < PatientSamples.Count; i++)
